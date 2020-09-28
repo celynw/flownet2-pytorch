@@ -5,3 +5,12 @@ _ext
 work
 work/*
 _ext/
+networks/channelnorm_package/build/
+networks/channelnorm_package/channelnorm_cuda.egg-info/
+networks/channelnorm_package/dist/
+networks/correlation_package/build/
+networks/correlation_package/correlation_cuda.egg-info/
+networks/correlation_package/dist/
+networks/resample2d_package/build/
+networks/resample2d_package/dist/
+networks/resample2d_package/resample2d_cuda.egg-info/
